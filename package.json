@@ -1,0 +1,15 @@
+{
+  "name": "ecofy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "13740080@qq.com",
+  "license": "MIT",
+  "dependencies": {
+    "through": "~2.3.4",
+    "eco": "~1.1.0-rc-3"
+  }
+}
