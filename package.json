@@ -1,6 +1,6 @@
 {
   "name": "ecofy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[eco][] precompiler plugin for [Browserify][] without magic.",
   "main": "index.js",
   "scripts": {
