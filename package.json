@@ -1,7 +1,7 @@
 {
   "name": "ecofy",
   "version": "1.0.0",
-  "description": "",
+  "description": "[eco][] precompiler plugin for [Browserify][] without magic.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,19 @@
   "dependencies": {
     "through": "~2.3.4",
     "eco": "~1.1.0-rc-3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/open-node/ecofy.git"
+  },
+  "keywords": [
+    "eco",
+    "grunt",
+    "browserify"
+  ],
+  "bugs": {
+    "url": "https://github.com/open-node/ecofy/issues"
+  },
+  "homepage": "https://github.com/open-node/ecofy"
 }
